@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi_Media", "Multi_Media\Multi_Media.csproj", "{F4E3943A-9DFB-42A2-9593-8EEDB530CAAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E3943A-9DFB-42A2-9593-8EEDB530CAAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E3943A-9DFB-42A2-9593-8EEDB530CAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E3943A-9DFB-42A2-9593-8EEDB530CAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E3943A-9DFB-42A2-9593-8EEDB530CAAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B71E9C7B-BDD4-4662-87AC-6854A2AB85DD}
+	EndGlobalSection
+EndGlobal
